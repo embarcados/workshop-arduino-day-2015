@@ -1,11 +1,8 @@
-/*****************************************************************
-                 Arduino Day 2015  - 28/03/15 
-                    Hands ON - Arduino UNO
-                 Embarcados - www.embarcados.com.br
-                     Autor: Fabio Souza
-*****************************************************************/
-
 /*
+  Workshop do Embarcados no Arduino Day 2015
+  Fabio Souza
+  Igor Tavares
+  
   Exemplo 7 - Contador Crescente
   Esse programa exibe a contagem crescente de 0 a 9  no display
  */

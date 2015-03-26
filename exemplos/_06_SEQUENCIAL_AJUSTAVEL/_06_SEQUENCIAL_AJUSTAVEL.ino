@@ -1,11 +1,8 @@
-/*****************************************************************
-                 Arduino Day 2015  - 28/03/15 
-                    Hands ON - Arduino UNO
-                 Embarcados - www.embarcados.com.br
-                     Autor: Fabio Souza
-*****************************************************************/
-
 /*
+  Workshop do Embarcados no Arduino Day 2015
+  Fabio Souza
+  Igor Tavares
+  
   Exemplo 6 - Sequencial ajsutavel
   acende segmentos externos em sentido horario com intervalo definido no potenciometro 
   segmentos

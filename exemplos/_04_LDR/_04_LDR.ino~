@@ -4,8 +4,9 @@
                  Embarcados - www.embarcados.com.br
                      Autor: Fabio Souza
 *****************************************************************/
+
 /*
-  Entrada analogica - LDR!!!
+  Exemplo 4 - Entrada analogica - LDR!!!
 */
 
 const int LDR = A1;

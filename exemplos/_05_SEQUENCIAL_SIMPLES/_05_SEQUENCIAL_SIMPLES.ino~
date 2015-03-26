@@ -5,7 +5,6 @@
                      Autor: Fabio Souza
 *****************************************************************/
 
-
 /*
   Exemplo 5 - Sequencial temporizado
   acende segmentos externos em sentido horario com intervalo de 100 ms entre 

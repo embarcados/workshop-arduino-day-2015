@@ -1,11 +1,8 @@
-/*****************************************************************
-                 Arduino Day 2015  - 28/03/15 
-                    Hands ON - Arduino UNO
-                 Embarcados - www.embarcados.com.br
-                     Autor: Fabio Souza
-*****************************************************************/
-
 /*
+  Workshop do Embarcados no Arduino Day 2015
+  Fabio Souza
+  Igor Tavares
+  
   Exemplo 2 - Serial
   Pisca o led ligado ao pino 13 do arduino em intervalos de 1 seg
   Exibindo o status do led na serial

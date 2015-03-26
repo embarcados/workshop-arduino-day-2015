@@ -1,12 +1,9 @@
-/*****************************************************************
-                 Arduino Day 2015  - 28/03/15 
-                    Hands ON - Arduino UNO
-                 Embarcados - www.embarcados.com.br
-                     Autor: Fabio Souza
-*****************************************************************/
-
 /*
-  Exemplo 1 - Hello World!!!
+  Workshop do Embarcados no Arduino Day 2015
+  Fabio Souza
+  Igor Tavares
+  
+  Exemplo 1 - Hello World
   Pisca o led ligado ao pino 13 do arduino em intervalos de 1 seg
  */
  

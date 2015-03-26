@@ -4,8 +4,9 @@
                  Embarcados - www.embarcados.com.br
                      Autor: Fabio Souza
 *****************************************************************/
+
 /*
-  Entrada analogica - potenciometro!!!
+  Exemplo 3 - Entrada analogica - potenciometro!!!
 */
 
 const int pot = A0;

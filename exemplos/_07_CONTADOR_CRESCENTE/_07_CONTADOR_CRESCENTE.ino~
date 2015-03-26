@@ -10,7 +10,7 @@
   Esse programa exibe a contagem crescente de 0 a 9  no display
  */
 
-     //segmentos A,B,C,D,E,F,G,P
+//segmentos A,B,C,D,E,F,G,P
 int display[] = {8,9,10,11,12,13,7,6};
 
 //TABELA PARA CONVERSAO DOS NUMEROS

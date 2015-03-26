@@ -1,13 +1,11 @@
 /*
   Workshop do Embarcados no Arduino Day 2015
   Igor Tavares
-  Fabio Souza
   
-  Extra 0 - Dojo - Contador
+  Extra 2 - Dojo - Dado digital
   
-  Esse programa conta de 0 a 9 em decimal infinitas vezes no
-  display de 7 segmentos.
-  A velocidade da contagem varia de acordo com o ajuste no potenciometro.
+  Exibe um numero pseudo-aleatorio toda vez que a luz no sensor LDR
+  for bloqueada.
   Para referencia de como manipular os ports do arduino a fim de
   performance acesse:
   http://www.arduino.cc/en/Reference/PortManipulation
@@ -46,9 +44,10 @@ void setup() {
 }
 
 void loop() {
-  for (int i=0; i<10; i++) {
-    PORTB = port_b_codes[i];
-    PORTD = port_d_codes[i];
-    delay(analogRead(A0));   // Delay baseado na leitura do potenciometro         
-  }
+  int i;
+  
+  i = random(1, 7);
+  PORTB = port_b_codes[i];
+  PORTD = port_d_codes[i];
+  while(analogRead(A1) < 700);
 }

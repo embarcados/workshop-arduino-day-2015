@@ -1,11 +1,8 @@
-/*****************************************************************
-                 Arduino Day 2015  - 28/03/15 
-                    Hands ON - Arduino UNO
-                 Embarcados - www.embarcados.com.br
-                     Autor: Fabio Souza
-*****************************************************************/
-
 /*
+  Workshop do Embarcados no Arduino Day 2015
+  Fabio Souza
+  Igor Tavares
+  
   Exemplo 8 - Contador Decrescente
   Esse programa exibe a contagem decrescente de 9 a 0  no display
  */

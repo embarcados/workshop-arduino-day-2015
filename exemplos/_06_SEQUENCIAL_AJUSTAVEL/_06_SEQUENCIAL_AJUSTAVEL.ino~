@@ -10,6 +10,7 @@
   acende segmentos externos em sentido horario com intervalo definido no potenciometro 
   segmentos
  */
+
 const int PRIMEIRO = 8; // constante para o segmento A
 const int ULTIMO = 13;  // constante para o segmento F
 
